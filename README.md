@@ -13,8 +13,6 @@ Extra credit: Insert and remove at specific indexes
 Console output in a pretty readable format
 
 ## 📁 File Structure
-less
-Copy code
 ├── LinkedList.js   // Contains Node and LinkedList class/factory
 ├── main.js         // Script to test the list
 └── README.md       // You're here!
