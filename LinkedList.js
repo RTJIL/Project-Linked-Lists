@@ -219,16 +219,4 @@ class Node {
   }
 }
 
-let ll = new LinkedList();
-ll.append('JoJo!!!!');
-ll.append(21, 1);
-ll.inserAt(222, 3);
-
-// console.log(ll.toString());
-
-console.log(ll.toString());
-console.log(ll);
-
-ll.removeAt(2);
-
-console.log(ll);
+export { LinkedList }
